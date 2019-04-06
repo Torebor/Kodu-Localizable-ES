@@ -2,20 +2,20 @@
 <Tiles>
   <sensor>
     <gamepad label="gamepad">Permite a un jugador controlar a un personaje. Especifica botón, disparador, o  joystick y opcionalmente jugador.</gamepad>
-    <keyboard label="keyboard">Permite a un jugador controlar a un personaje. Especifica cual tecla.</keyboard>
-    <mouse label="mouse">Responde a una entrada del ratón.</mouse>
-    <eyes label="see">Reacciona cuando ve un objeto, dependiendo del tipo o color. Colinas y valles pueden bloquear la vista.</eyes>
-    <ears label="hear">Reacciona cuando escucha un objeto, dependiendo del tipo o sonido. Escuchar funciona a través de las paredes.</ears>
-    <bumpers label="bump">Reacciona cuando se choca contra otra objeto, dependiendo del tipo, color, etc.</bumpers>
-    <timer label="timer">Reacciona a un número de segundos que pasan. Aumenta el número para hacer los tiempos más largos.</timer>
-    <got label="got">Reacciona a recoger algo según el tipo, color, etc..</got>
-    <scored label="scored">Reacciona a cambios en el puntaje.</scored>
-    <health label="health">Reacciona a cambios en la salud.</health>
+    <keyboard label="Teclado">Permite a un jugador controlar a un personaje. Especifica cual tecla.</keyboard>
+    <mouse label="Ratón">Responde a una entrada del ratón.</mouse>
+    <eyes label="Ver">Reacciona cuando ve un objeto, dependiendo del tipo o color. Colinas y valles pueden bloquear la vista.</eyes>
+    <ears label="Escuchar">Reacciona cuando escucha un objeto, dependiendo del tipo o sonido. Escuchar funciona a través de las paredes.</ears>
+    <bumpers label="Chocar">Reacciona cuando se choca contra otra objeto, dependiendo del tipo, color, etc.</bumpers>
+    <timer label="Tiempo">Reacciona a un número de segundos que pasan. Aumenta el número para hacer los tiempos más largos.</timer>
+    <got label="Obtener">Reacciona a recoger/obtener algo según el tipo, color, etc..</got>
+    <scored label="Puntaje">Reacciona a cambios en el puntaje.</scored>
+    <health label="Salud">Reacciona a cambios en la salud.</health>
     <missilehit label="shot hit">Reacciona cuando el disparo alcanza otro objeto. Bueno para mantener el puntaje, pero se puede hacer lo que quiera - cómo volver los bots rosados al dispararles.</missilehit>
     <held label="held by">Reacciona a ser recogido por otro objeto.</held>
-    <terrain label="on land">Reacciona a diferentes tipos de suelo. </terrain>
-    <water label="on water">Reacciona a diferentes tipos de agua.</water>
-    <always label="always">Hace algo todo el tiempo. Opcional.</always>
+    <terrain label="En Tierra">Reacciona a diferentes tipos de suelo. </terrain>
+    <water label="En Agua">Reacciona a diferentes tipos de agua.</water>
+    <always label="Siempre">Hace algo todo el tiempo. Opcional.</always>
   </sensor>
   <filter></filter>
   <selector></selector>
@@ -431,7 +431,7 @@
     <make label="create">Hace otro objeto. Puede crear objetos básicos o cualquiera marcado cómo creable.</make>
     <launch label="launch">Patea el objetivo, si está lo suficientemente cerca. Puede variar la fuerza.</launch>
     <express label="express">Expresa una emoción o muestra un efecto especial. Algunas empresiones cambian la cara del personaje, mientras otras se muestran sobre el personaje.</express>
-    <color label="color">Cambia el color de ti mismo o del objetivo.</color>
+    <color label="Color">Cambia el color de ti mismo o del objetivo.</color>
     <glow label="glow">Emite un brillo radioactivo. Puede cambiar el color.</glow>
     <sound label="play">¡Hace un sonido! Hay muchos para escoger.</sound>
     <stopsound label="quiet">Para de tocar un sonido.</stopsound>
@@ -467,13 +467,13 @@
   </actuator>
   <root />
   <group>
-    <colors label="colors" />
-    <game label="game" />
-    <more label="more" />
-    <players label="players" />
-    <playermods label="players" />
-    <actions label="actions" />
-    <combat label="combat" />
+    <colors label="Colores" />
+    <game label="Juego" />
+    <more label="Mas" />
+    <players label="Jugadores" />
+    <playermods label="Jugadores" />
+    <actions label="Acciones" />
+    <combat label="Combate" />
     <holding label="holding" />
     <sounds label="sounds" />
     <event label="event">
