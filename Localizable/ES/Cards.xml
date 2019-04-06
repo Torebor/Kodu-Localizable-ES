@@ -64,15 +64,19 @@
       <near label="close">Hacer que el personaje ponga un círculo más cerrado sobre el objetivo.</near>
       <far label="far">Hacer que el personaje ponga un círculo más grande sobre el objetivo.</far>
     </distance>
-    <objectrock label="rock">Crear una roca.</objectrock>
-    <objectfruit label="apple">Crear una manzana.</objectfruit>
-    <objectstar label="star">Crear una estrella.</objectstar>
-    <objectcoin label="coin">Crear una moneda.</objectcoin>
-    <objectheart label="heart">Crear un corazón.</objectheart>
+    <objecticeberg label="Iceberg">Crear un iceberg.</objecticeberg>
+    <objectrock label="Roca">Crear una roca.</objectrock>
+    <objectrockLowValue label="Roca Magmática">Crear una roca magmática.</objectrockLowValue>
+    <objectrockHighValue label="Roca Sedimentaria">Crear una roca sedimentaria.</objectrockHighValue>
+    <objectfruit label="Manzana">Crear una manzana.</objectfruit>
+    <objectinkjet label="Nube de Humo">Crear una nube de humo.</objectinkjet>
+    <objectstar label="Estrella">Crear una estrella.</objectstar>
+    <objectcoin label="Moneda">Crear una moneda.</objectcoin>
+    <objectheart label="Corazón">Crear un corazón.</objectheart>
   </modifier>
   <modifer>
-    <objectsoccerball label="ball">Crear un ammo.</objectsoccerball>
-    <objectbullet label="ammo">Crear un ammo.</objectbullet>
+    <objectsoccerball label="Pelota">Crear una pelota.</objectsoccerball>
+    <objectbullet label="Proyectil">Crear un proyectil.</objectbullet>
   </modifer>
   <modifier>
     <taska label="page 1">Cambiar a la página 1.</taska>
