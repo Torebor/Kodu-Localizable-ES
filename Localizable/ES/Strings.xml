@@ -69,7 +69,7 @@
     <mainMenu></mainMenu>
     <resume>REANUDAR</resume>
     <play>CARGAR MUNDO</play>
-    <new>NUEVO MUNDO</new>
+    <new>NUEVO MUNDO VACIO</new>
     <learning>APRENDIZAJE</learning>
     <community>COMUNIDAD</community>
     <share>COMPARTIR</share>
@@ -99,7 +99,7 @@
     <titleXbox>Programación</titleXbox>
     <sayStringPromptXbox>Ingresa texto</sayStringPromptXbox>
     <when>Cuando</when>
-    <do>Haga</do>
+    <do>Hacer</do>
     <help>Ayuda</help>
     <cutTile>Cortar Mosaico</cutTile>
     <copyTile>Copiar Mosaico</copyTile>
@@ -123,7 +123,7 @@
     <publish>Compartir con la comunidad</publish>
     <print>Imprimir código para el nivel</print>
     <options>Opciones</options>
-    <quit>Salir a menú principal</quit>
+    <quit>Ir menú principal</quit>
     <shareSuccessMessage>Tu mundo ha sido copiado al sitio de la Comunidad. Gracias por compartir.</shareSuccessMessage>
     <noCommunityMessage>El sitio de la Comunidad no está disponible en este momento. Por favor reintenta de nuevo más tarde.</noCommunityMessage>
     <noSharingMessage>Compartir no está disponible en este momento.</noSharingMessage>
