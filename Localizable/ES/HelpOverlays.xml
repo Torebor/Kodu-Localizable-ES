@@ -29,7 +29,7 @@
     <id>MouseEditCameraMove</id>
     <keyMouse>
       &lt;leftmouse&gt; Arrastrar Terreno
-      &lt;rightmouse&gt; Orbitar Cpamara
+      &lt;rightmouse&gt; Orbitar Cámara
       &lt;middlemouse&gt; Zoom Reuda de Desplazamiento
 
     </keyMouse>
@@ -219,7 +219,7 @@
     <keyMouse>
       &lt;leftmouse&gt; Arrugar
       &lt;middlemouse&gt; Suavizar Terreno
-      &lt;rightmouse&gt; Volverlo con Colinas
+      &lt;rightmouse&gt; Hacer Colina
 
       [leftarrow][rightarrow] Cambiar Tamaño de la Brocha
 
@@ -236,7 +236,7 @@
     <keyMouse>
       &lt;leftmouse&gt; Levantar Agua
       &lt;middlemouse&gt; Cambiar Color del Agua
-      &lt;rightmouse&gt; Bajar Water
+      &lt;rightmouse&gt; Bajar nivel del agua
 
       HelpLevelMid
       [F3] Ajustar a la cuadrícula

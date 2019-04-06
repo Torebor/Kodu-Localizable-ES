@@ -65,6 +65,42 @@
     <back>Atrás</back>
     <exitTutorial>Salir de Tutorial</exitTutorial>
   </tutorial>
+
+<auth>
+    <signInTitle>Iniciar Sesión</signInTitle>
+    <signOutTitle>Cerrar Sesión</signOutTitle>
+    <newUserTitle>Agregar nuevo creador</newUserTitle>
+    
+    <creator>Creador</creator>
+    <currentlySignedInAs>Actualmente registrado como : </currentlySignedInAs>
+    <pin>Pin</pin>
+    <pinError>Pin Invalido</pinError>
+    <pinTooShort>Muy corto, el Pin debe tener mínimo 4 dígitos</pinTooShort>
+    <pinTooSimple>Muy simple.</pinTooSimple>
+
+    <keepSignedIn>Mantener sesion activa cuando cierre Kodu.</keepSignedIn>
+
+    <ok>OK</ok>
+    <cancel>Cancelar</cancel>
+    <continue>Continuar</continue>
+    <signOut>Cerrar Sesión</signOut>
+
+    <helpText>Welcome to the Kodu sign in page.  This dialog allows you to create a new account or sign in to an existing one.
+
+              To create a new account, pick a Creator name and a Pin number.  The Creator name will show up on the worlds that you create.  This will allow you to find your worlds both in Kodu and on the Kodu community web site.  For your online safety choose a Creator name that is just your first name or better yet, a nickname.  Do not use your last name, email address or any other information that could identify you online since this name will be visible if you choose to upload worlds to the Kodu community site.
+
+              The Pin number should be 4 digits.  This acts as your private password.  Simple patterns like 1111 or 1234 will not be accepted.
+
+              Once you have created an account you can use the same Creator name and Pin to sign in.
+
+              You may choose to not create an account.  In that case, just click 'OK' and you will be signed in to the Guest account.
+
+            At any time, if you want to create a new account you can do so by picking a new Creator name and Pin.
+      </helpText>
+
+    <helpTextShort>For your online safety choose a Creator name that is just your first name or better yet, a nickname.  Do not use your last name, email address or any other information that could identify you online.</helpTextShort>
+</auth> 
+
   <mainMenu>
     <mainMenu></mainMenu>
     <resume>REANUDAR</resume>
@@ -123,7 +159,7 @@
     <publish>Compartir con la comunidad</publish>
     <print>Imprimir código para el nivel</print>
     <options>Opciones</options>
-    <quit>Ir menú principal</quit>
+    <quit>Ir a menú principal</quit>
     <shareSuccessMessage>Tu mundo ha sido copiado al sitio de la Comunidad. Gracias por compartir.</shareSuccessMessage>
     <noCommunityMessage>El sitio de la Comunidad no está disponible en este momento. Por favor reintenta de nuevo más tarde.</noCommunityMessage>
     <noSharingMessage>Compartir no está disponible en este momento.</noSharingMessage>

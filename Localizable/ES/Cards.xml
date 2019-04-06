@@ -17,7 +17,21 @@
     <water label="En Agua">Reacciona a diferentes tipos de agua.</water>
     <always label="Siempre">Hace algo todo el tiempo. Opcional.</always>
   </sensor>
-  <filter></filter>
+  <filter>
+   <nothing />
+    <boku label="Kodu">Kodu es un personaje que puedes agregar y programar en tu juego.</boku>
+    <bokubot label="Kodu">Kodu es un personaje que puedes agregar y programar en tu juego.</bokubot>
+    <anything label="Cualquiera" />
+     <expresshappy label="Feliz">Actuar feliz</expresshappy>
+     <expresssad label="Triste">Actuar triste.</expresssad>
+    <expressangry label="Enojado">Actuar Enojado</expressangry>
+    <expresscrazy label="Enloquecido">Actuar enloquecido</expresscrazy>
+    <expresshearts label="Enamorado">Mostrar corazones.</expresshearts>
+    <expressflowers label="Flores">Mostrar flores</expressflowers>
+    <expressstars label="Estrellas">Mostrar estrellas</expressstars>
+    <expressswear label="Isultar">Actuar de forma vulgar </expressswear>
+    <expressnone label="Normal">Actuar de forma normal.</expressnone>
+  </filter>
   <selector></selector>
   <modifier>
     <player>
@@ -91,15 +105,15 @@
     <taskj label="page 10">Cambiar a la página 10.</taskj>
     <taskk label="page 11">Cambiar a la página 11.</taskk>
     <taskl label="page 12">Cambiar a la página 12.</taskl>
-    <expresshappy label="happy">actuar feliz.</expresshappy>
-    <expresssad label="sad">actuar triste.</expresssad>
-    <expressangry label="ANGRY">actuar enojado.</expressangry>
-    <expresscrazy label="CrAzY">actuar enloquecido.</expresscrazy>
-    <expresshearts label="hearts">Mostrar corazones.</expresshearts>
-    <expressflowers label="flowers">Mostrar flores.</expressflowers>
-    <expressstars label="stars">Mostrar estrellas.</expressstars>
-    <expressswear label="swears">Mostrar que el dibujo insulta.</expressswear>
-    <expressnone label="none">Actuar normal y terminar de mostrar todo.</expressnone>
+    <expresshappy label="Felicidad">actuar feliz.</expresshappy>
+    <expresssad label="Tristeza">actuar triste.</expresssad>
+    <expressangry label="Enojo">actuar enojado.</expressangry>
+    <expresscrazy label="Locura">actuar enloquecido.</expresscrazy>
+    <expresshearts label="Enamorado">Mostrar corazones.</expresshearts>
+    <expressflowers label="Flores">Mostrar flores.</expressflowers>
+    <expressstars label="Estrellas">Mostrar estrellas.</expressstars>
+    <expressswear label="Insulto">Mostrar rechazo/desprecio hacia el otro personaje u objeto</expressswear>
+    <expressnone label="Nada">Actuar normal y terminar de mostrar todo.</expressnone>
     <_000point label="points">0 puntos. Puedes especificar un color también.</_000point>
     <_001point label="point">1 punto. Usa varios para adicionar diferentes números. Puedes especificar un color también.</_001point>
     <_002points label="points">2 puntos. Usa varios para adicionar diferentes números. Puedes especificar un color también.</_002points>
@@ -430,9 +444,9 @@
     <kick label="kick">Patea el objetivo, si está lo suficientemente cerca. Puede variar la fuerza.</kick>
     <make label="Crear">Crear otro objeto. Puede crear objetos básicos o cualquiera marcado cómo creable.</make>
     <launch label="launch">Patea el objetivo, si está lo suficientemente cerca. Puede variar la fuerza.</launch>
-    <express label="express">Expresa una emoción o muestra un efecto especial. Algunas empresiones cambian la cara del personaje, mientras otras se muestran sobre el personaje.</express>
+    <express label="Expresar">Expresa una emoción o muestra un efecto especial. Algunas empresiones cambian la cara del personaje, mientras otras se muestran sobre el personaje.</express>
     <color label="Color">Cambia el color de ti mismo o del objetivo.</color>
-    <glow label="glow">Emite un brillo radioactivo. Puede cambiar el color.</glow>
+    <glow label="Brillar">Emite un brillo radioactivo. Puede cambiar el color.</glow>
     <sound label="play">¡Hace un sonido! Hay muchos para escoger.</sound>
     <stopsound label="quiet">Para de tocar un sonido.</stopsound>
     <jump label="jump">Diferentes personajes pueden saltar a diferentes alturas.</jump>
@@ -506,7 +520,7 @@
     <filters>
       <directions label="direction" />
     </filters>
-    <expressions label="express" />
+    <expressions label="Expresar" />
     <projectiles label="projectile" />
     <camera label="Camara" />
     <reset label="reset" />
