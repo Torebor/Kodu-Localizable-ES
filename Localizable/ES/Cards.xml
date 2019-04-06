@@ -12,7 +12,7 @@
     <scored label="Puntaje">Reacciona a cambios en el puntaje.</scored>
     <health label="Salud">Reacciona a cambios en la salud.</health>
     <missilehit label="shot hit">Reacciona cuando el disparo alcanza otro objeto. Bueno para mantener el puntaje, pero se puede hacer lo que quiera - cómo volver los bots rosados al dispararles.</missilehit>
-    <held label="held by">Reacciona a ser recogido por otro objeto.</held>
+    <held label="Atrapado Por">Reacciona a ser recogido por otro objeto.</held>
     <terrain label="En Tierra">Reacciona a diferentes tipos de suelo. </terrain>
     <water label="En Agua">Reacciona a diferentes tipos de agua.</water>
     <always label="Siempre">Hace algo todo el tiempo. Opcional.</always>
@@ -27,22 +27,22 @@
       <_4 label="player 4" />
     </player>
     <reset>
-      <world label="world">Reinicia el juego, excepto por el tablero de puntaje.</world>
-      <score label="score">Restablece el tablero de puntaje, o un puntaje individual si provees u ncolor.</score>
-      <expression label="express">Restablece la expresión del personaje.</expression>
-      <glow label="glow">Restablece el brillo del personaje.</glow>
-      <health label="health">Restablece la salud del personaje.</health>
+      <world label="Mundo">Reinicia el juego, excepto por el tablero de puntaje.</world>
+      <score label="Puntaje">Restablece el tablero de puntaje, o un puntaje individual si provees u ncolor.</score>
+      <expression label="Expresión">Restablece la expresión del personaje.</expression>
+      <glow label="Brillo">Restablece el brillo del personaje.</glow>
+      <health label="Salud">Restablece la salud del personaje.</health>
     </reset>
     <projectile>
       <blip label="blip">Blips son proyectiles rápidos de fuego - de peso más ligero que los misiles.</blip>
-      <missile label="missile">Los misiles son grandes y no muy rápidos, pero son lo suficientemente inteligentes para rastrear su objetivo!</missile>
+      <missile label="Misil">Los misiles son grandes y no muy rápidos, pero son lo suficientemente inteligentes para rastrear su objetivo!</missile>
     </projectile>
-    <slowly label="slowly">Moverse más despacio. Úsalo varias veces para moverse aún más despacio.</slowly>
-    <quickly label="quickly">Moverse más rápidamente. Úsalo varias veces para moverse aún más rápido.</quickly>
-    <speednormally label="normally">Moverse normalmente. Opcional.</speednormally>
-    <weakly label="weak">Hacer esto más débil que de costumbre.</weakly>
-    <strongly label="strong">Hacer esto más fuerte que de costumbre.</strongly>
-    <strengthnormally label="normal">Hacer esto con la fuerza normal. Opcional.</strengthnormally>
+    <slowly label="Lentamente">Moverse más despacio. Úsalo varias veces para moverse aún más despacio.</slowly>
+    <quickly label="Rapidamente">Moverse más rápidamente. Úsalo varias veces para moverse aún más rápido.</quickly>
+    <speednormally label="Normalmente">Moverse normalmente. Opcional.</speednormally>
+    <weakly label="Débil">Hacer esto más débil que de costumbre.</weakly>
+    <strongly label="Fuerte">Hacer esto más fuerte que de costumbre.</strongly>
+    <strengthnormally label="Normal">Hacer esto con la fuerza normal. Opcional.</strengthnormally>
     <angle>
       <low label="low">Hacer esto más débil que de costumbre.</low>
       <high label="high">Hacer esto más fuerte que de costumbre.</high>
