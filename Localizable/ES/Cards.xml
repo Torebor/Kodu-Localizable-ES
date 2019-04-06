@@ -421,14 +421,14 @@
   </modifier>
   <actuator>
     <nothing label="nothing" />
-    <movement label="move">Viaja alrededor del mundo. Explora las opciones. Diferentes personajes tienen diferentes habilidades de movimiento.</movement>
+    <movement label="Moverse">Viaja alrededor del mundo. Explora las opciones. Diferentes personajes tienen diferentes habilidades de movimiento.</movement>
     <turn label="turn">Cambia la dirección que sigues.</turn>
     <eat label="eat">Consume el objetivo apuntado, el cual debe estar cerca.</eat>
     <say label="say">Muestra un mensaje de texto, bien sea en un globo o en un diálogo. Usa &lt;cr&gt; para partirlo en líneas.</say>
     <open label="open">Trabaja diferente para personajes diferentes. ¡Experimenta!</open>
     <close label="close">Trabaja diferente para personajes diferentes. ¡Experimenta!</close>
     <kick label="kick">Patea el objetivo, si está lo suficientemente cerca. Puede variar la fuerza.</kick>
-    <make label="create">Hace otro objeto. Puede crear objetos básicos o cualquiera marcado cómo creable.</make>
+    <make label="Crear">Crear otro objeto. Puede crear objetos básicos o cualquiera marcado cómo creable.</make>
     <launch label="launch">Patea el objetivo, si está lo suficientemente cerca. Puede variar la fuerza.</launch>
     <express label="express">Expresa una emoción o muestra un efecto especial. Algunas empresiones cambian la cara del personaje, mientras otras se muestran sobre el personaje.</express>
     <color label="Color">Cambia el color de ti mismo o del objetivo.</color>
@@ -441,8 +441,8 @@
     <airrise label="go up">La acción Ir Arriba ocasiona que los caracteres que vuelan se eleven hacia el cielo.</airrise>
     <airdrop label="go down">La acción Ir Abajo ocasiona que los personajes que vuelan vuelen hacia la tierra.</airdrop>
     <switchtask label="switch">Cambia a una página diferente. Solamente las reglas de la página actual aplican. Las páginas son realmente útiles para cambiar el comportamiento.</switchtask>
-    <shoot label="shoot" />
-    <shoot2 label="shoot">Dispara blips o misiles.</shoot2>
+    <shoot label="Disparar" />
+    <shoot2 label="Disparar">Dispara blips o misiles.</shoot2>
     <damage label="damage">Me resta salud a mí mismo, o el personaje objetivo.</damage>
     <heal label="heal">Me adiciona salud a mí mismo, o al personaje objetivo.
         La acción Salud ocasiona que el personaje o el objetivo se recuperen de un daño. Por omisión es el objetivo quien sana; el personaje puede ser sanado incluyendo el modificador "me". Los modificadores pueden ser usados también para determinar el tipo y cantidad de los puntos sanadores.</heal>
@@ -473,6 +473,7 @@
     <players label="Jugadores" />
     <playermods label="Jugadores" />
     <actions label="Acciones" />
+    <settings label="Configuraciones" />
     <combat label="Combate" />
     <holding label="holding" />
     <sounds label="sounds" />
@@ -507,9 +508,9 @@
     </filters>
     <expressions label="express" />
     <projectiles label="projectile" />
-    <camera label="view" />
+    <camera label="Camara" />
     <reset label="reset" />
-    <options label="options" />
+    <options label="Opciones" />
     <compare label="compare" />
     <points label="points" />
     <time label="time" />
@@ -517,9 +518,9 @@
     <strength label="strength" />
     <angle label="loft" />
     <tracking label="tracking" />
-    <bots label="bots I" />
-    <bots2 label="bots II" />
-    <objects label="objects" />
+    <bots label="Robots I" />
+    <bots2 label="Robots II" />
+    <objects label="Objetos" />
     <tasks label="task" />
     <terrains label="types" />
     <waters label="types" />
