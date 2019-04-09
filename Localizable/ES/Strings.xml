@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xmm version="1.0" encoding="utf-8"?>
 <Strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <foo>The foo string</foo>
   <actorNames>
@@ -76,7 +76,7 @@
     <pin>Pin</pin>
     <pinError>Pin Invalido</pinError>
     <pinTooShort>Muy corto, el Pin debe tener mínimo 4 dígitos</pinTooShort>
-    <pinTooSimple>Muy simple.</pinTooSimple>
+    <pinTooSimple>Muy simple</pinTooSimple>
 
     <keepSignedIn>Mantener sesion activa cuando cierre Kodu.</keepSignedIn>
 
@@ -85,20 +85,20 @@
     <continue>Continuar</continue>
     <signOut>Cerrar Sesión</signOut>
 
-    <helpText>Welcome to the Kodu sign in page.  This dialog allows you to create a new account or sign in to an existing one.
+    <helpText>Bienvenido a la página de inicio de sesión de Kodu. Puedes crear una cuenta nueva o iniciar sesión en una ya existente.
 
-              To create a new account, pick a Creator name and a Pin number.  The Creator name will show up on the worlds that you create.  This will allow you to find your worlds both in Kodu and on the Kodu community web site.  For your online safety choose a Creator name that is just your first name or better yet, a nickname.  Do not use your last name, email address or any other information that could identify you online since this name will be visible if you choose to upload worlds to the Kodu community site.
+              Para crear una nueva cuenta, Escoge un nombre con el cual te identificaras como creador y un número Pin. El nombre de creador será mostrado en los mundos que desarrolles. Esto te permitirá encontrar tus mundos tanto dentro de Kodu Game Lab como en el sitio web de Kodu. Para tu seguridad en línea puedes idetificarte solo por tu primer nombre, o mejor, por un apodo. No uses tu apellido, correo electrónico o cualquier otra información que pueda exponer tu verdadera identidad en línea, ya que tu nombre de creador sera visible si decides subir tus mundos al sitio Web de Kodu Game Lab.
 
-              The Pin number should be 4 digits.  This acts as your private password.  Simple patterns like 1111 or 1234 will not be accepted.
+              El número Pin debe ser de 4 dígitos. Este funcionara como tu contraseña. Patrones simples como 1111 o 1234 no son aceptados.
 
-              Once you have created an account you can use the same Creator name and Pin to sign in.
+              Una vez hayas creado una cuenta puedes usar el mismo nombre de creador y Pin para iniciar sesión.
 
-              You may choose to not create an account.  In that case, just click 'OK' and you will be signed in to the Guest account.
+              Puedes escoger también no crear una cuenta. En este caso, solo presiona 'OK' y iniciaras sesión con una cuenta bajo el nombre de 'Guest'(Invitado).
 
-            At any time, if you want to create a new account you can do so by picking a new Creator name and Pin.
+            En cualquier momento, si quieres crear una nueva cuenta, lo puedes hacer simplemente escribiendo un nombre de creador y número Pin.
       </helpText>
 
-    <helpTextShort>For your online safety choose a Creator name that is just your first name or better yet, a nickname.  Do not use your last name, email address or any other information that could identify you online.</helpTextShort>
+    <helpTextShort>Para tu seguridad en línea puedes indetificarte solo por tu primer nombre, o mejor, por un apodo. No uses tu apellido, correo electrónico o cualquier otra información que pueda exponer tu verdadera identidad en línea.</helpTextShort>
 </auth> 
 
   <mainMenu>
