@@ -377,6 +377,7 @@
     <loud>Fuerte</loud>
     <quiet>Silencioso</quiet>
     <off>Apagado</off>
+    <showVirtualController>Mostrar Control Virtual</showVirtualController>
   </editWorldParams>
   <skyGradientNames>
     <grassAndSky>1</grassAndSky>
